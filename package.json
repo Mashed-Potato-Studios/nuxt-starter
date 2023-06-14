@@ -1,6 +1,9 @@
 {
-  "name": "nuxt-app",
-  "private": true,
+  "name": "@mps/nuxt-starter",
+  "version": "0.0.1",
+  "description": "MPS Nuxt Starter",
+  "author": "MPS - Vantol Bennett",
+  "license": "MIT",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
